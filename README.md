@@ -1,2 +1,3 @@
 # hello-world
-Communication and planning.
+
+My name is Carl Johnson. Buggy code killed my pa.
